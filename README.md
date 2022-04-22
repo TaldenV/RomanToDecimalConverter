@@ -9,3 +9,5 @@ Converts Roman numerals to decimal
 - At 4 hours, I was unable to remove all the code bugs so I saved it where it was at
 - I was really interested in the solution, so I spent another hour to remove all the bugs and also included my answer for that
 - I was unable to get to finish writing a program that would go the other way, but I would probably do a similar process to do the inverse
+- I wanted to code it with using Vue.js, but eventually settled on using Python
+- I am most comfortable with Java, so I would probably have been able to get further if I had done it in Java
